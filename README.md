@@ -32,3 +32,7 @@ $ node start.js
 ```bash
 $ node test/test.js
 ```
+
+### To Viewer
+
+Please review and contact me with your suggestions or make your changes in repo with pull request.
