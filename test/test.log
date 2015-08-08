@@ -1,0 +1,8 @@
+2014-01-09T06:16:53.742892+00:00 heroku[router]: at=info method=GET path=/api/users/100002266342173/count_pending_messages host=services.pocketplaylab.com fwd="94.66.255.106" dyno=web.8 connect=9ms service=9ms status=304 bytes=0
+2014-01-09T06:16:53.772938+00:00 heroku[router]: at=info method=POST path=/api/users/100002844291023 host=services.pocketplaylab.com fwd="46.195.178.244" dyno=web.6 connect=2ms service=43ms status=200 bytes=52
+2014-01-09T06:16:53.760472+00:00 heroku[router]: at=info method=POST path=/api/users/1770684197 host=services.pocketplaylab.com fwd="74.139.217.81" dyno=web.5 connect=1ms service=17ms status=200 bytes=681
+2014-01-09T06:15:15.893505+00:00 heroku[router]: at=info method=GET path=/api/users/1686318645/get_friends_progress host=services.pocketplaylab.com fwd="1.125.42.139" dyno=web.3 connect=8ms service=90ms status=200 bytes=7534
+2014-01-09T06:16:53.768188+00:00 heroku[router]: at=info method=GET path=/api/users/100005936523817/get_friends_score host=services.pocketplaylab.com fwd="5.13.87.91" dyno=web.13 connect=2ms service=46ms status=200 bytes=9355
+2014-01-09T06:15:17.858874+00:00 heroku[router]: at=info method=POST path=/api/users/1145906359 host=services.pocketplaylab.com fwd="107.220.72.53" dyno=web.14 connect=2ms service=362ms status=200 bytes=52
+2014-01-09T06:16:53.797975+00:00 heroku[router]: at=info method=GET path=/api/users/100000622081059/count_pending_messages host=services.pocketplaylab.com fwd="174.239.6.42" dyno=web.12 connect=1ms service=13ms status=200 bytes=33
+2014-01-09T06:16:53.797975+00:00 heroku[router]: at=info method=GET path=/api/users/100000622081059/count_pending_messages host=services.pocketplaylab.com fwd="174.239.6.42" dyno=web.12 connect=1ms service=10ms status=200 bytes=33
